@@ -1,6 +1,7 @@
 import React from "react";
 import Number from "./Number";
 import { Input, Form } from "./Input";
+
 interface IState {
   counter: number;
   name: string;
